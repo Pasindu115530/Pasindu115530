@@ -45,7 +45,7 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
   <br>
 </div>
@@ -53,7 +53,7 @@
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <br>
-  <img src="https://github.com/Pasindu115530/Pasindu115530/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Pasindu115530/Pasindu115530/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
@@ -63,11 +63,8 @@
 <div align="center">
   <h3>🚀 Featured Projects</h3>
   <br>
-  <a href="https://github.com/Pasindu115530/Repo-Name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu115530&repo=Repo-Name-1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Pasindu115530/Repo-Name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu115530&repo=Repo-Name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/Pasindu115530?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu115530&repo=Pasindu115530&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 

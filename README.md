@@ -1,79 +1,151 @@
 <div align="center">
-<img src="./assets/devops-hero.svg" alt="Pasindu Udana Mendis | DevOps, Cloud and Security" width="100%" />
-<br />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=8BF1D8&center=true&vCenter=true&width=850&height=50&lines=Turning+code+into+reliable+systems.;Learning+DevOps+%7C+Cloud+%7C+Infrastructure+as+Code;Automate+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Improve" alt="Animated DevOps tagline" /></a>
-<br />
-<a href="https://github.com/Pasindu115530"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pasindu115530-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img alt="Focus: DevOps" src="https://img.shields.io/badge/FOCUS-DEVOPS_%2B_CLOUD-12302E?style=for-the-badge&logo=linux&logoColor=7BF2D4" />
-<img alt="Based in Sri Lanka" src="https://img.shields.io/badge/BASED_IN-SRI_LANKA-152338?style=for-the-badge&logo=googlemaps&logoColor=97C7FB" />
-</div>
-`01 / whoami`
-```bash
-$ whoami
-> Pasindu Udana Mendis
-> Computer Science undergraduate | University of Sri Jayewardenepura
-> DevOps & Cloud enthusiast | Builder | Problem solver
 
-$ cat mission.txt
-> Build useful software.
-> Automate the repetitive parts.
-> Make deployments safer, observable, and repeatable.
+<!-- Header Banner / Hero -->
+<img src="./assets/devops-hero.svg" alt="Pasindu Udana Mendis Banner" width="100%" />
+
+<br/><br/>
+
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Pasindu+Udana+Mendis+%F0%9F%91%8B;CS+Undergraduate+%40+University+of+Sri+Jayewardenepura;DevOps+%26+Cloud+Enthusiast+%7C+Problem+Solver;Automate+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Improve" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Quick Badges -->
+<p align="center">
+  <a href="https://github.com/Pasindu115530"><img src="https://img.shields.io/badge/GitHub-Pasindu115530-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Focus-DevOps_%26_Cloud-0D9488?style=for-the-badge&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Sri_Lanka-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+</div>
+
+---
+
+### 📌 About Me
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+```javascript
+const pasindu = {
+    name: "Pasindu Udana Mendis",
+    role: "Computer Science Undergraduate",
+    institution: "University of Sri Jayewardenepura",
+    location: "Sri Lanka 🇱🇰",
+    passions: [
+        "DevOps & Infrastructure Automation",
+        "Cloud Architecture (AWS)",
+        "System Reliability & Security"
+    ],
+    currentFocus: [
+        "Docker & Containerization",
+        "CI/CD Pipelines (GitHub Actions)",
+        "Linux Server Administration"
+    ],
+    nextGoals: ["Kubernetes", "Terraform", "Prometheus & Grafana"],
+    mindset: "Don't stop when it works locally. Make it reproducible and scalable."
+};
 ```
-I'm exploring the space where software engineering meets infrastructure — from writing applications to shipping them on Linux servers, securing service communication, and understanding what happens after deployment.
-🔧 Hands-on: Linux, Git/GitHub, Docker, Nginx, PostgreSQL, Coolify, Python, and deployment workflows.
-☁️ Exploring: cloud infrastructure, AWS, CI/CD, security, monitoring, and infrastructure automation.
-🎯 Next milestones: GitHub Actions, Terraform, Kubernetes, Prometheus, and Grafana.
-`02 / the delivery loop`
-<div align="center">
-  <img src="./assets/release-flow.svg" alt="Commit, test, build, deploy, observe CI/CD lifecycle" width="100%" />
-</div>
-> **Engineering mindset:** Don't stop when it works locally. Make it reproducible, deployable, and maintainable.
-`03 / operations toolbox`
-<div align="center">
-Languages & development
-<img src="https://skillicons.dev/icons?i=py,bash,js,java,cpp,react,nodejs&theme=dark&perline=7" alt="Python, Bash, JavaScript, Java, C++, React, Node.js" />
-Infrastructure & delivery
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,aws&theme=dark&perline=7" alt="Linux, Docker, Nginx, Git, GitHub, GitHub Actions, AWS" />
-Data, tooling & systems
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,vscode,postman,ubuntu&theme=dark&perline=6" alt="PostgreSQL, MongoDB, MySQL, VS Code, Postman, Ubuntu" />
-</div>
-<details>
-<summary><b>🔍 What I'm learning next</b></summary>
-<br />
-Area	Learning path
-Infrastructure as Code	Terraform, reusable modules, remote state
-Containers at scale	Kubernetes, Helm, cluster operations
-CI/CD	GitHub Actions, test gates, release automation
-Observability	Prometheus, Grafana, alerts and dashboards
-Cloud foundations	AWS IAM, networking, compute, storage
-Security	Least privilege, secrets management, secure log transport
-</details>
-`04 / active labs`
-Not just tutorials — I'm using projects to understand how real systems are operated.
-Project / lab	What I'm building & practicing	DevOps angle
-🛡️ Sentinel — Access Governance	Centralized Windows/Linux security logs and access-review workflows	Ubuntu VPS, WireGuard, syslog, PostgreSQL, security
-📡 CertRadar AI	Discovery and alert platform for free certification opportunities	Dockerized services, deployment pipelines, monitoring (planned)
-⚙️ Self-hosted Deployment Lab	Deploying backend/frontend services to a VPS with managed routing	Coolify, Git, reverse proxy, environment configuration
-<sub>These are ongoing learning/build projects, not claims of production-scale deployment.</sub>
-<div align="center">
-  <a href="https://github.com/Pasindu115530?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-121D2A?style=for-the-badge&logo=github&logoColor=8BF1D8" alt="Explore my GitHub repositories" /></a>
-</div>
-`05 / github telemetry`
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&hide_border=true&theme=transparent&title_color=8BF1D8&icon_color=89BDF5&text_color=AFC2D5&bg_color=0D1117" alt="GitHub account statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&hide_border=true&theme=transparent&title_color=8BF1D8&text_color=AFC2D5&bg_color=0D1117" alt="Most used languages" />
-<br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu115530&bg_color=0d1117&color=9ab8c6&line=5acfb8&point=a1f4dc&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
-</div>
-`06 / connect`
-<div align="center">
-Interested in DevOps, cloud, infrastructure, open source, or building something useful?
-<a href="https://github.com/Pasindu115530"><img alt="GitHub profile" src="https://img.shields.io/badge/GITHUB-CONNECT-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Replace with real details, then uncomment:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-SAY_HELLO-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
 
+   </td>
+   <td width="45%" align="center" valign="middle">
+     <img src="https://raw.githubusercontent.com/gist/octocat/6686001/raw/cbb72c1c7ae9ec3caec0f9979313ea2fdf3d853b/cat.gif" width="100%" alt="Developer coding aesthetic animation" style="border-radius: 12px;"/>
+   </td>
+  </tr>
+</table>
 
-<sub><code>pasindu@devops:~$</code> keep learning · keep shipping · keep improving ▌</sub>
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Pasindu115530" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Operations Toolbox
+
+<div align="center">
+
+#### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=py,bash,js,java,cpp&theme=dark" alt="Languages" />
+</p>
+
+#### Infrastructure, Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,aws,githubactions,git&theme=dark" alt="DevOps" />
+</p>
+
+#### Frameworks, Databases & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,postgres,mongodb,mysql,vscode,postman&theme=dark" alt="Tools" />
+</p>
+
 </div>
+
+---
+
+### 🚀 Active Labs & Projects
+
+| Project / Lab | What I'm Building & Practicing | Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ Sentinel — Access Governance** | Centralized security logs & access review workflows | Ubuntu VPS, WireGuard, Syslog, PostgreSQL |
+| **📡 CertRadar AI** | Discovery and alert platform for certification opportunities | Docker, Deployment Pipelines, Monitoring |
+| **⚙️ Self-hosted Deployment Lab** | Deploying backend/frontend services with managed reverse proxy | Coolify, Nginx, Docker, Linux |
+
+<p align="center">
+  <a href="https://github.com/Pasindu115530?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=64FFDA" alt="Explore Repositories" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Telemetry & Stats
+
+<div align="center">
+
+<!-- GitHub Trophy Showcase -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pasindu115530&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</a>
+
+<br/><br/>
+
+<!-- Stats Cards -->
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+&nbsp;
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu115530&bg_color=1a1b26&color=70a5fd&line=64ffda&point=ffffff&area=true&hide_border=true&border_radius=8" width="95%" alt="GitHub Activity Graph" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu115530&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<p align="center">
+  <sub><code>pasindu@devops:~$</code> keep learning · keep shipping · keep improving ▌</sub>
+</p>

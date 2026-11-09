@@ -1,82 +1,79 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Pasindu%20Udana%20Mendis&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Pasindu115530&descAlignY=55&descAlign=50" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Computing+Undergrad+%F0%9F%8E%93;MERN+Stack+Learner+%F0%9F%92%BB;Python+%26+Data+Science+%F0%9F%93%8A;Project+Management+%7C+ML%2FAI+%F0%9F%92%A1;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-  </a>
-
+<img src="./assets/devops-hero.svg" alt="Pasindu Udana Mendis | DevOps, Cloud and Security" width="100%" />
+<br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=8BF1D8&center=true&vCenter=true&width=850&height=50&lines=Turning+code+into+reliable+systems.;Learning+DevOps+%7C+Cloud+%7C+Infrastructure+as+Code;Automate+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Improve" alt="Animated DevOps tagline" /></a>
+<br />
+<a href="https://github.com/Pasindu115530"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pasindu115530-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img alt="Focus: DevOps" src="https://img.shields.io/badge/FOCUS-DEVOPS_%2B_CLOUD-12302E?style=for-the-badge&logo=linux&logoColor=7BF2D4" />
+<img alt="Based in Sri Lanka" src="https://img.shields.io/badge/BASED_IN-SRI_LANKA-152338?style=for-the-badge&logo=googlemaps&logoColor=97C7FB" />
 </div>
+`01 / whoami`
+```bash
+$ whoami
+> Pasindu Udana Mendis
+> Computer Science undergraduate | University of Sri Jayewardenepura
+> DevOps & Cloud enthusiast | Builder | Problem solver
 
+$ cat mission.txt
+> Build useful software.
+> Automate the repetitive parts.
+> Make deployments safer, observable, and repeatable.
+```
+I'm exploring the space where software engineering meets infrastructure — from writing applications to shipping them on Linux servers, securing service communication, and understanding what happens after deployment.
+🔧 Hands-on: Linux, Git/GitHub, Docker, Nginx, PostgreSQL, Coolify, Python, and deployment workflows.
+☁️ Exploring: cloud infrastructure, AWS, CI/CD, security, monitoring, and infrastructure automation.
+🎯 Next milestones: GitHub Actions, Terraform, Kubernetes, Prometheus, and Grafana.
+`02 / the delivery loop`
 <div align="center">
-  <h3>✨ About Me</h3>
+  <img src="./assets/release-flow.svg" alt="Commit, test, build, deploy, observe CI/CD lifecycle" width="100%" />
 </div>
-
-<p align="center"> 
-  I am a passionate Computing Undergraduate and Creative Problem Solver. I bridge the gap between complex backend logic and beautiful user interfaces, currently expanding my horizons into <b>Data Science</b>, <b>AI</b>, and <b>Cybersecurity</b>.
-</p>
-
+> **Engineering mindset:** Don't stop when it works locally. Make it reproducible, deployable, and maintainable.
+`03 / operations toolbox`
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Languages & development
+<img src="https://skillicons.dev/icons?i=py,bash,js,java,cpp,react,nodejs&theme=dark&perline=7" alt="Python, Bash, JavaScript, Java, C++, React, Node.js" />
+Infrastructure & delivery
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,aws&theme=dark&perline=7" alt="Linux, Docker, Nginx, Git, GitHub, GitHub Actions, AWS" />
+Data, tooling & systems
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,vscode,postman,ubuntu&theme=dark&perline=6" alt="PostgreSQL, MongoDB, MySQL, VS Code, Postman, Ubuntu" />
 </div>
-
+<details>
+<summary><b>🔍 What I'm learning next</b></summary>
+<br />
+Area	Learning path
+Infrastructure as Code	Terraform, reusable modules, remote state
+Containers at scale	Kubernetes, Helm, cluster operations
+CI/CD	GitHub Actions, test gates, release automation
+Observability	Prometheus, Grafana, alerts and dashboards
+Cloud foundations	AWS IAM, networking, compute, storage
+Security	Least privilege, secrets management, secure log transport
+</details>
+`04 / active labs`
+Not just tutorials — I'm using projects to understand how real systems are operated.
+Project / lab	What I'm building & practicing	DevOps angle
+🛡️ Sentinel — Access Governance	Centralized Windows/Linux security logs and access-review workflows	Ubuntu VPS, WireGuard, syslog, PostgreSQL, security
+📡 CertRadar AI	Discovery and alert platform for free certification opportunities	Dockerized services, deployment pipelines, monitoring (planned)
+⚙️ Self-hosted Deployment Lab	Deploying backend/frontend services to a VPS with managed routing	Coolify, Git, reverse proxy, environment configuration
+<sub>These are ongoing learning/build projects, not claims of production-scale deployment.</sub>
 <div align="center">
-  <h3>⚡ Tech Stack & Tools</h3>
-  <br>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&perline=6&theme=dark" />
-    </a>
-    <br><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=6&theme=dark" />
-    </a>
-    <br><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,pytorch,linux&perline=6&theme=dark" />
-    </a>
-  </p>
+  <a href="https://github.com/Pasindu115530?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-121D2A?style=for-the-badge&logo=github&logoColor=8BF1D8" alt="Explore my GitHub repositories" /></a>
 </div>
-
+`05 / github telemetry`
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&hide_border=true&theme=transparent&title_color=8BF1D8&icon_color=89BDF5&text_color=AFC2D5&bg_color=0D1117" alt="GitHub account statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&hide_border=true&theme=transparent&title_color=8BF1D8&text_color=AFC2D5&bg_color=0D1117" alt="Most used languages" />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu115530&bg_color=0d1117&color=9ab8c6&line=5acfb8&point=a1f4dc&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 </div>
-
+`06 / connect`
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-  <br>
-</div>
+Interested in DevOps, cloud, infrastructure, open source, or building something useful?
+<a href="https://github.com/Pasindu115530"><img alt="GitHub profile" src="https://img.shields.io/badge/GITHUB-CONNECT-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- Replace with real details, then uncomment:
+<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-SAY_HELLO-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <br>
-  <img src="https://github.com/Pasindu115530/Pasindu115530/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
-<div align="center">
-  <h3>🚀 Featured Projects</h3>
-  <br>
-  <a href="https://github.com/Pasindu115530?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu115530&repo=Pasindu115530&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <h3>📫 Connect with Me</h3>
-  <p>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/your-linkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<sub><code>pasindu@devops:~$</code> keep learning · keep shipping · keep improving ▌</sub>
 </div>

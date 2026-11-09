@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="385" viewBox="0 0 1280 385" role="img" aria-label="Pasindu Udana Mendis - DevOps, Cloud and Security. Build, ship, observe.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0E16"/><stop offset=".58" stop-color="#0F1521"/><stop offset="1" stop-color="#0A0E16"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#89FFE0"/><stop offset="1" stop-color="#6DBFF9"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#3EF3CF" stop-opacity=".19"/><stop offset="1" stop-color="#3EF3CF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#263748" stroke-width=".65" opacity=".55"/></pattern>
+  <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect x=".5" y=".5" width="1279" height="384" rx="16" fill="url(#bg)" stroke="#263748"/>
+<rect x="1" y="1" width="1278" height="383" rx="16" fill="url(#grid)" opacity=".38"/>
+<circle cx="1040" cy="202" r="290" fill="url(#glow)"/>
+<path d="M 0 28 H 1280 M 0 356 H 1280" stroke="#263B48" stroke-width="1" opacity=".55"/>
+<path d="M 34 0 V 385 M 1246 0 V 385" stroke="#263B48" stroke-width="1" opacity=".38"/>
+<circle cx="53" cy="46" r="4" fill="#8AFFE6"/>
+<text x="69" y="51" fill="#9FD3CF" font-family="Consolas,monospace" font-size="13" letter-spacing="2">SYS://PASINDU.PROFILE</text>
+<text x="84" y="154" fill="#E9F1F7" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="2">PASINDU</text>
+<text x="83" y="232" fill="#E9F1F7" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="1">UDANA MENDIS</text>
+<path d="M 85 254 H 636" stroke="url(#a)" stroke-width="2" opacity=".95"/>
+<text x="85" y="285" fill="#9BD9D8" font-family="Consolas,monospace" font-size="20" letter-spacing="1.5">DEVOPS  /  CLOUD  /  SECURITY</text>
+<rect x="84" y="313" width="124" height="30" rx="7" fill="#122932" stroke="#29635F"/>
+<text x="146" y="333" text-anchor="middle" fill="#8AFFE0" font-family="Consolas,monospace" font-size="12" letter-spacing="1">AUTOMATE</text>
+<rect x="219" y="313" width="107" height="30" rx="7" fill="#132232" stroke="#324D72"/>
+<text x="272.5" y="333" text-anchor="middle" fill="#B3C9E3" font-family="Consolas,monospace" font-size="12" letter-spacing="1">DEPLOY</text>
+<rect x="337" y="313" width="113" height="30" rx="7" fill="#132232" stroke="#324D72"/>
+<text x="393.5" y="333" text-anchor="middle" fill="#B3C9E3" font-family="Consolas,monospace" font-size="12" letter-spacing="1">OBSERVE</text>
+<text x="1147" y="51" text-anchor="end" fill="#657D8C" font-family="Consolas,monospace" font-size="12">UTC+05:30 / LK</text>
+<!-- terminal panel -->
+<rect x="782" y="73" width="414" height="259" rx="13" fill="#0B111A" stroke="#355064" stroke-width="1.4"/>
+<path d="M 782 108 H 1196" stroke="#2A4654"/>
+<circle cx="807" cy="91" r="4" fill="#F78D8D"/><circle cx="822" cy="91" r="4" fill="#F2C77A"/><circle cx="837" cy="91" r="4" fill="#7EDBC0"/>
+<text x="858" y="96" fill="#93A9B9" font-family="Consolas,monospace" font-size="13">delivery.pipeline</text>
+<text x="816" y="135" fill="#7F9AB0" font-family="Consolas,monospace" font-size="13">$ ./deploy --environment=prod</text>
+<path d="M 856 195 H 932 M 1040 195 H 1116" stroke="#6DBFF9" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M 921 190 L 932 195 L 921 200 M 1105 190 L 1116 195 L 1105 200" stroke="#6DBFF9" fill="none" stroke-width="2"/>
+<rect x="810" y="158" width="91" height="74" rx="9" fill="#132A32" stroke="#398F83"/>
+<text x="855.5" y="187" text-anchor="middle" fill="#AEF9EA" font-family="Consolas,monospace" font-size="17" font-weight="bold">01</text>
+<text x="855.5" y="209" text-anchor="middle" fill="#A9C6D2" font-family="Consolas,monospace" font-size="12">CODE</text>
+<rect x="948" y="158" width="91" height="74" rx="9" fill="#132333" stroke="#456A91"/>
+<text x="993.5" y="187" text-anchor="middle" fill="#BFDDFB" font-family="Consolas,monospace" font-size="17" font-weight="bold">02</text>
+<text x="993.5" y="209" text-anchor="middle" fill="#A9C6D2" font-family="Consolas,monospace" font-size="12">SHIP</text>
+<rect x="1086" y="158" width="84" height="74" rx="9" fill="#132A32" stroke="#398F83"/>
+<text x="1128" y="187" text-anchor="middle" fill="#AEF9EA" font-family="Consolas,monospace" font-size="17" font-weight="bold">03</text>
+<text x="1128" y="209" text-anchor="middle" fill="#A9C6D2" font-family="Consolas,monospace" font-size="12">RUN</text>
+<path d="M 817 259 H 1166" stroke="#263B48"/>
+<circle cx="826" cy="286" r="5" fill="#71F3C8"/>
+<text x="844" y="290" fill="#A8D5C8" font-family="Consolas,monospace" font-size="12">pipeline: ready</text>
+<text x="1162" y="290" text-anchor="end" fill="#657F8D" font-family="Consolas,monospace" font-size="12">status / 200</text>
+<text x="1187" y="348" text-anchor="end" fill="#54717E" font-family="Consolas,monospace" font-size="10" letter-spacing="2">ALWAYS ITERATING</text>
+</svg>

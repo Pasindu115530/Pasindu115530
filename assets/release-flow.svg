@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Delivery pipeline: commit to test to build to deploy to observe">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D131D"/><stop offset="1" stop-color="#0A1018"/></linearGradient>
+<linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#72F6D5"/><stop offset="1" stop-color="#65B8FB"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="238" rx="15" fill="url(#bg)" stroke="#263B4F"/>
+<text x="32" y="30" font-family="Consolas, monospace" font-size="13" fill="#78C9C3" letter-spacing="2">CI/CD  //  RELEASE LOOP</text>
+<text x="1167" y="30" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#678093">SOURCE → PRODUCTION</text>
+
+<rect x="33" y="56" width="204" height="112" rx="10" fill="#111E2A" stroke="#3E8B79"/>
+    <rect x="48" y="73" width="37" height="26" rx="5" fill="#183B3B" stroke="#396C72"/>
+    <text x="66.5" y="91" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#9DF6DB">01</text>
+    <text x="48" y="123" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing=".6" fill="#E5EDF5">COMMIT</text>
+    <text x="48" y="147" font-family="Consolas,monospace" font-size="12" fill="#88A6B9">Git / GitHub</text>
+<path d="M 244 111 h 23" stroke="#6ADACB" stroke-width="2"/><path d="M 261 105 l 7 6 l -7 6" stroke="#6ADACB" stroke-width="2" fill="none"/>
+<rect x="272" y="56" width="204" height="112" rx="10" fill="#111E2A" stroke="#32495F"/>
+    <rect x="287" y="73" width="37" height="26" rx="5" fill="#183B3B" stroke="#396C72"/>
+    <text x="305.5" y="91" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#9DF6DB">02</text>
+    <text x="287" y="123" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing=".6" fill="#E5EDF5">TEST</text>
+    <text x="287" y="147" font-family="Consolas,monospace" font-size="12" fill="#88A6B9">Quality gates</text>
+<path d="M 483 111 h 23" stroke="#6ADACB" stroke-width="2"/><path d="M 500 105 l 7 6 l -7 6" stroke="#6ADACB" stroke-width="2" fill="none"/>
+<rect x="511" y="56" width="204" height="112" rx="10" fill="#111E2A" stroke="#32495F"/>
+    <rect x="526" y="73" width="37" height="26" rx="5" fill="#183B3B" stroke="#396C72"/>
+    <text x="544.5" y="91" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#9DF6DB">03</text>
+    <text x="526" y="123" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing=".6" fill="#E5EDF5">BUILD</text>
+    <text x="526" y="147" font-family="Consolas,monospace" font-size="12" fill="#88A6B9">Docker images</text>
+<path d="M 722 111 h 23" stroke="#6ADACB" stroke-width="2"/><path d="M 739 105 l 7 6 l -7 6" stroke="#6ADACB" stroke-width="2" fill="none"/>
+<rect x="750" y="56" width="204" height="112" rx="10" fill="#111E2A" stroke="#32495F"/>
+    <rect x="765" y="73" width="37" height="26" rx="5" fill="#183B3B" stroke="#396C72"/>
+    <text x="783.5" y="91" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#9DF6DB">04</text>
+    <text x="765" y="123" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing=".6" fill="#E5EDF5">DEPLOY</text>
+    <text x="765" y="147" font-family="Consolas,monospace" font-size="12" fill="#88A6B9">Coolify / VPS</text>
+<path d="M 961 111 h 23" stroke="#6ADACB" stroke-width="2"/><path d="M 978 105 l 7 6 l -7 6" stroke="#6ADACB" stroke-width="2" fill="none"/>
+<rect x="989" y="56" width="204" height="112" rx="10" fill="#111E2A" stroke="#3E8B79"/>
+    <rect x="1004" y="73" width="37" height="26" rx="5" fill="#183B3B" stroke="#396C72"/>
+    <text x="1022.5" y="91" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#9DF6DB">05</text>
+    <text x="1004" y="123" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing=".6" fill="#E5EDF5">OBSERVE</text>
+    <text x="1004" y="147" font-family="Consolas,monospace" font-size="12" fill="#88A6B9">Logs / alerts</text>
+<rect x="33" y="193" width="1134" height="2" rx="1" fill="url(#stripe)" opacity=".7"/>
+<text x="600" y="220" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#A1B4C3" letter-spacing="1">VERSIONED   •   TESTED   •   REPEATABLE   •   OBSERVABLE</text>
+</svg>

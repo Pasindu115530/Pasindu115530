@@ -3,7 +3,10 @@
 <!-- Header Banner / Hero -->
 <img src="./assets/devops-hero.svg" alt="Pasindu Udana Mendis Banner" width="100%" />
 
-<br/><br/>
+<!-- Animated Waves Header Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=header" width="100%" alt="Wave header" />
+
+<br/>
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -54,7 +57,7 @@ const pasindu = {
 
    </td>
    <td width="45%" align="center" valign="middle">
-     <img src="https://raw.githubusercontent.com/gist/octocat/6686001/raw/cbb72c1c7ae9ec3caec0f9979313ea2fdf3d853b/cat.gif" width="100%" alt="Developer coding aesthetic animation" style="border-radius: 12px;"/>
+     <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" width="100%" alt="Developer workspace coding aesthetic" style="border-radius: 12px;"/>
    </td>
   </tr>
 </table>
@@ -144,7 +147,8 @@ const pasindu = {
 
 </div>
 
----
+<!-- Animated Waves Footer Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%" alt="Wave footer" />
 
 <p align="center">
   <sub><code>pasindu@devops:~$</code> keep learning · keep shipping · keep improving ▌</sub>

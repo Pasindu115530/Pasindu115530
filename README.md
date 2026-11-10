@@ -57,7 +57,7 @@ const pasindu = {
 
    </td>
    <td width="45%" align="center" valign="middle">
-     <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" width="100%" alt="Developer workspace coding aesthetic" style="border-radius: 12px;"/>
+     <img src="./assets/devops-avatar.jpg" width="100%" alt="Pasindu 3D DevOps Engineer Avatar" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);"/>
    </td>
   </tr>
 </table>

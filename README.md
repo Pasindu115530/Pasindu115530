@@ -123,27 +123,29 @@ const pasindu = {
 
 <div align="center">
 
+<!-- GitHub Stats & Streak Cards via GitHub Readme Stats & Streak -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pasindu115530&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu115530&bg_color=1a1b26&color=70a5fd&line=64ffda&point=ffffff&area=true&hide_border=true&border_radius=8" width="95%" alt="GitHub Activity Graph" />
+</p>
+
 <!-- GitHub Trophy Showcase -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pasindu115530&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
-
-<br/><br/>
-
-<!-- Stats Cards -->
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
-&nbsp;
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu115530&bg_color=1a1b26&color=70a5fd&line=64ffda&point=ffffff&area=true&hide_border=true&border_radius=8" width="95%" alt="GitHub Activity Graph" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu115530&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pasindu115530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
 </div>
 

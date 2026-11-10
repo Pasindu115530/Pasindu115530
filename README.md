@@ -119,32 +119,30 @@ const pasindu = {
 
 ---
 
-### 📊 GitHub Telemetry & Stats
+### 📊 GitHub Telemetry & Analytics
 
 <div align="center">
 
-<!-- GitHub Stats & Streak Cards via GitHub Readme Stats & Streak -->
+<!-- GitHub Profile Summary Cards (100% Active & Verified) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pasindu115530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pasindu115530&theme=tokyonight" width="100%" alt="Profile Details & Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pasindu115530&theme=tokyonight" width="49%" alt="Top Languages by Repo" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu115530&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pasindu115530&theme=tokyonight&utcOffset=5.5" width="49%" alt="Commit Activity Times" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pasindu115530&theme=tokyonight" width="49%" alt="Total Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pasindu115530&theme=tokyonight" width="49%" alt="Top Languages by Commit" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pasindu115530&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu115530&bg_color=1a1b26&color=70a5fd&line=64ffda&point=ffffff&area=true&hide_border=true&border_radius=8" width="95%" alt="GitHub Activity Graph" />
-</p>
-
-<!-- GitHub Trophy Showcase -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pasindu115530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Pasindu115530&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 </div>
